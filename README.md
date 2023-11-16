@@ -14,7 +14,7 @@ View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/9
 ### 2. Analyzing American Baby Name Trends
 
 **🔑 Key Learnings**
--  
+-  sd
 
 View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/967b46b8ba3edb7b178cfbbe7cf9767fb542ebcb/SQL/Analyzing%20American%20Baby%20Name%20Trends/Analyzing%20American%20Baby%20Name%20Trends.ipynb)!
 ### 3. Analyzing NYC Public School Test Result Scores
