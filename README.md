@@ -14,19 +14,19 @@ View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/9
 ### 2. Analyzing American Baby Name Trends
 
 **🔑 Key Learnings**
--  sd
+-  point
 
 View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/967b46b8ba3edb7b178cfbbe7cf9767fb542ebcb/SQL/Analyzing%20American%20Baby%20Name%20Trends/Analyzing%20American%20Baby%20Name%20Trends.ipynb)!
 ### 3. Analyzing NYC Public School Test Result Scores
 
 **🔑 Key Learnings**
--  
+-  point
 
 View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/967b46b8ba3edb7b178cfbbe7cf9767fb542ebcb/SQL/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)!
 ### 4. Optimizing Online Sports Retail Revenue
 
 **🔑 Key Learnings**
--  
+-  point
 
 View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/967b46b8ba3edb7b178cfbbe7cf9767fb542ebcb/SQL/Optimizing%20Online%20Sports%20Retail%20Revenue/Optimizing%20Online%20Sports%20Retail%20Revenue.ipynb)!
 ### 5. What and Where Are the World's Oldest Businesses?
@@ -41,6 +41,6 @@ View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/9
 ### 6. When Was the Golden Age of Video Games
 
 **🔑 Key Learnings**
--  
+-  point
 
 View my project [here](https://github.com/adeolaosibajo/DataCamp-Projects/blob/967b46b8ba3edb7b178cfbbe7cf9767fb542ebcb/SQL/When%20Was%20the%20Golden%20Age%20of%20Video%20Games/When%20Was%20the%20Golden%20Age%20of%20Video%20Games.ipynb)!
